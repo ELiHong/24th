@@ -1,6 +1,7 @@
 class Hello {
 	//For command line git tutorial
-	//Local repository modification
+	//First: GitHub modification
+	//Second: Local repository modification
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		System.out.println("Tell Your World");
